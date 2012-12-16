@@ -1,0 +1,6 @@
+tests/1.test: result is 1
+tests/test100x100.test: result is 20
+tests/test100x500.test: result is 80
+tests/test10x10.test: result is 4
+tests/test10x100.test: result is 34
+tests/test10x500.test: result is 166
